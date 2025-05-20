@@ -67,11 +67,11 @@ v(t):   0.40964049
 
 4. Inferência Probabilística (Consulta)
 
-Conceito: Sistemas de diagnóstico usam inferência para calcular probabilidades condicionais.
+    Conceito: Sistemas de diagnóstico usam inferência para calcular probabilidades condicionais.
 
-Implementação:
+    Implementação:
 
-    A consulta calcula P(V=ligado∣Str=snow_covered)P(V=ligado∣Str=snow_covered).
+        A consulta calcula P(V=ligado∣Str=snow_covered)P(V=ligado∣Str=snow_covered).
 
-    O ProbLog marginaliza todas as variáveis ocultas (Fhv, R) para encontrar a resposta
+        O ProbLog marginaliza todas as variáveis ocultas (Fhv, R) para encontrar a resposta
 
