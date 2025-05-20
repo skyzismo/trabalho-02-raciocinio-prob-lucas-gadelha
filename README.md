@@ -18,12 +18,13 @@
 
 1. Você deve instalar a lib Python do ProbLog
 
-```
+```python
 pip install problog
 ```
 
 2. Com o ProbLog instalado, você pode executá-lo com o seguinte comando:
-```
+
+```python
 python -m problog 02_questao_trab_02_lucas_gadelha.pl
 ```
 
